@@ -131,7 +131,7 @@ Currently targeting high-impact roles at **Microsoft · Google · Databricks · 
 
 ---
 
-## 🎯 2025 Engineering Goals
+## 🎯 2026 Engineering Goals
 
 - [ ] 🏗️ Build open-source **Data Quality Framework** for PySpark pipelines
 - [ ] 📦 Contribute to Apache Spark / Delta Lake ecosystem
@@ -148,9 +148,9 @@ Currently targeting high-impact roles at **Microsoft · Google · Databricks · 
 
 > *"Data is the new oil — I build the refineries."*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thevamsikrishna)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white)](https://thevamsikrishna.dev)
-[![Email](https://img.shields.io/badge/Email%20Me-00C2FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsi@thevamsikrishna.dev)
+[![LinkedIn]([https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-krishna-pineapple/)](https://linkedin.com/in/thevamsikrishna)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white)]([https://thevamsikrishna.dev](https://vamsi-krishna.autos/))
+[![Email](https://img.shields.io/badge/Email%20Me-00C2FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nukalavamsikrishna10@gmail.com)
 
 </div>
 
