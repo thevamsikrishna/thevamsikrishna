@@ -107,7 +107,7 @@ Currently targeting high-impact roles at **Microsoft · Google · Databricks · 
 | [**adf-regression-automation**](https://github.com/thevamsikrishna/adf-regression-automation) | Enterprise ADF pipeline regression framework with GitHub Actions CI/CD | ADF · Databricks · Python · GH Actions |
 | [**bigquery-bigtable-pipeline**](https://github.com/thevamsikrishna/bigquery-bigtable-pipeline) | High-throughput BQ → Bigtable pipeline with Apache Beam & PySpark | BigQuery · Bigtable · Beam · PySpark |
 | [**pyspark-scd-framework**](https://github.com/thevamsikrishna/pyspark-scd-framework) | Production-grade SCD Type 1/2 framework with SHA-256 change detection | PySpark · Delta Lake · SQL |
-| [**de-interview-prep**](https://github.com/thevamsikrishna/de-interview-prep) | Curated Data Engineering interview questions, solutions & system designs | Python · SQL · PySpark · System Design |
+| [**de-interview-prep**](https://github.com/thevamsikrishna/awesome-data-engineer-prep) | Curated Data Engineering interview questions, solutions & system designs | Python · SQL · PySpark · System Design |
 | [**dynamic-pyspark-etl**](https://github.com/thevamsikrishna/dynamic-pyspark-etl) | YAML-driven dynamic PySpark pipeline framework for enterprise ETL | PySpark · YAML · Delta Lake · ADF |
 
 </div>
