@@ -15,8 +15,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thevamsikrishna&color=00C2FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thevamsikrishna)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white)](https://thevamsikrishna.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vamsi-krishna-pineapple)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white)](https://vamsi-krishna.autos/)
 [![GitHub](https://img.shields.io/badge/GitHub-thevamsikrishna-181717?style=for-the-badge&logo=github)](https://github.com/thevamsikrishna)
 
 </div>
