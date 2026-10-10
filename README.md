@@ -1,300 +1,226 @@
 <div align="center">
 
-<!-- PREMIUM HEADER — PINEAPPLE GOLD LUXURY -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:1A1200,80:C9920A,100:F5C842&height=220&section=header&text=Vamsi%20Krishna&fontSize=62&fontColor=F5C842&fontAlignY=38&desc=%F0%9F%8D%8D%20Senior%20Data%20Engineer%20%E2%80%A2%20Azure%20%E2%80%A2%20GCP%20%E2%80%A2%20PySpark&descAlignY=60&descSize=17&animation=fadeIn&fontAlignX=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,40:1A1200,80:C9920A,100:F5C842&height=220&section=header&text=Vamsi%20Krishna&fontSize=62&fontColor=F5C842&fontAlignY=38&desc=%F0%9F%8D%8D%20Senior%20Data%20Engineer%20%E2%80%A2%20Azure%20%E2%80%A2%20AWS%20%E2%80%A2%20GCP&descAlignY=60&descSize=17&animation=fadeIn&fontAlignX=50" width="100%"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=C9920A&center=true&vCenter=true&width=780&lines=One+problem.+Three+clouds.+Same+guarantees.;Idempotent+by+default.+Observable+by+design.;100M-row+SCD+merges+in+under+12+minutes;Azure+%E2%80%A2+AWS+%E2%80%A2+GCP+%E2%80%A2+PySpark+%E2%80%A2+Delta+Lake+%E2%80%A2+Kafka)](https://git.io/typing-svg)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=26&pause=1200&color=C9920A&center=true&vCenter=true&width=750&lines=%F0%9F%8D%8D+Building+enterprise-grade+data+platforms;Azure+%7C+GCP+%7C+PySpark+%7C+Databricks+%7C+Kafka;Distributed+systems+at+terabyte+scale;5%2B+years+of+production+data+engineering)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=thevamsikrishna&color=C9920A&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-krishna-pineapple/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-C9920A?style=for-the-badge&logo=vercel&logoColor=black)](https://vamsi-krishna.autos/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-thevamsikrishna-F5C842?style=for-the-badge&logo=github&logoColor=black)](https://github.com/thevamsikrishna)
+[![Portfolio](https://img.shields.io/badge/vamsi--krishna.autos-C9920A?style=for-the-badge&logo=vercel&logoColor=black)](https://vamsi-krishna.autos/)
+[![Email](https://img.shields.io/badge/Email-F5C842?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nukalavamsikrishna10@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=thevamsikrishna&color=C9920A&style=for-the-badge&label=VIEWS)
 
 </div>
 
 ---
 
-<br/>
+## 🍍 `SELECT * FROM engineers WHERE name = 'vamsi';`
 
-## 🍍 &nbsp;The Engineer
-
-```python
-class VamsiKrishna:
-    """
-    Senior Data Engineer · 5+ years · India 🇮🇳
-    Building the pipelines that move the world's data.
-    """
-
-    stack = {
-        "cloud"      : ["Azure (primary)", "GCP (secondary)", "AWS (tertiary)"],
-        "processing" : ["PySpark", "Apache Beam", "Kafka", "Delta Lake"],
-        "azure"      : ["ADF", "Databricks", "Synapse", "ADLS Gen2"],
-        "gcp"        : ["BigQuery", "Bigtable", "Cloud Composer"],
-        "devops"     : ["GitHub Actions", "Docker", "Terraform"],
-        "languages"  : ["Python", "SQL", "Scala"],
-    }
-
-    certifications = [
-        "DP-203 · Azure Data Engineer Associate ✅",
-        "AZ-900 · Azure Fundamentals ✅",
-    ]
-
-    currently    = "Building enterprise-grade data platforms & open-source DE tooling"
-    targeting    = ["Microsoft", "Google", "Databricks", "Walmart Global Tech", "PhonePe", "Flipkart"]
-    available    = True   # 🍍 Open to senior roles at product-based companies
-    signature    = "🍍"   # Because every great pipeline deserves a mark
+```sql
+-- 1 row returned · 0.003s · partition pruned ✓
+┌──────────────────┬──────────────────────────────────────────────────────────────┐
+│ column           │ value                                                        │
+├──────────────────┼──────────────────────────────────────────────────────────────┤
+│ role             │ Senior Data Engineer · 5+ yrs · Hyderabad, India             │
+│ clouds_shipped   │ Azure ▸ AWS ▸ GCP   (production work on all three)           │
+│ compute          │ PySpark · Databricks · Glue · Dataproc · Apache Beam         │
+│ storage          │ Delta Lake · ADLS Gen2 · S3 · BigQuery · Bigtable            │
+│ streaming        │ Kafka · Structured Streaming                                 │
+│ orchestration    │ ADF · Airflow · Step Functions                               │
+│ domains          │ banking · insurance · payments · enterprise IT               │
+│ obsessions       │ idempotency, schema drift, cost per GB, boring on-call       │
+│ certs            │ AZ-900 (held) · Databricks DE, GCP PDE (in progress)         │
+│ open_to          │ Senior DE roles at product companies                         │
+└──────────────────┴──────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
-
 ---
 
-## 🏆 &nbsp;Certifications
+## 🛂 &nbsp;The Multi-Cloud Rosetta Stone
+
+> Most engineers know one cloud. I've shipped the **same pipeline patterns** on all three, so I think in *responsibilities*, not vendor names.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/DP--203-Azure%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-**Microsoft Certified**
-*Azure Data Engineer Associate*
-✅ &nbsp;Active
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-**Microsoft Certified**
-*Azure Fundamentals*
-✅ &nbsp;Active
-
-</td>
-</tr>
-</table>
+| Responsibility | <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white"/> | <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white"/> | <img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white"/> |
+|:---|:---:|:---:|:---:|
+| 🪣 Land raw data | ADLS Gen2 | S3 | GCS |
+| ⚙️ Distributed compute | Databricks | Glue | Dataproc · Dataflow |
+| 🧭 Orchestrate | ADF | Step Functions | Composer (Airflow) |
+| 🗄️ Serve / query | Delta · Synapse | Athena | BigQuery · Bigtable |
+| 🔐 Secrets | Key Vault | Secrets Manager | Secret Manager |
+| 📟 Observe | Azure Monitor | CloudWatch | Cloud Monitoring |
 
 </div>
 
-<br/>
+<sub>Every cell above is a service I've used in production or in a repo below.</sub>
 
 ---
 
-## ⚙️ &nbsp;Technical Arsenal
+## 🧬 &nbsp;Career Lineage
 
-<div align="center">
+> Rendered as a data lineage graph, because that's how I see it: each engagement is an upstream dependency of the next.
 
-### ☁️ &nbsp;Cloud Platforms
+```mermaid
+flowchart LR
+    classDef fl fill:#1A1200,stroke:#C9920A,color:#F5C842
+    classDef az fill:#0B2545,stroke:#0078D4,color:#FFFFFF
+    classDef gc fill:#0B2545,stroke:#4285F4,color:#FFFFFF
+    classDef aw fill:#2B1A00,stroke:#FF9900,color:#FFFFFF
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+    A["🏦 Banking ETL<br/><sub>Freelance · 2021–22</sub>"]:::fl
+    B["⚡ Real-time streaming<br/><sub>Azure · Kafka · 2023</sub>"]:::az
+    C["🏛️ Hive DW → cloud migration<br/><sub>Insurance · 2023–24</sub>"]:::az
+    D["💳 Payments analytics<br/><sub>GCP · BigQuery · 2024–25</sub>"]:::gc
+    E["🛠️ Sole-engineer data platform<br/><sub>AWS · Glue · Step Functions · 2025–26</sub>"]:::aw
 
-### 🔥 &nbsp;Processing & Streaming
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Beam](https://img.shields.io/badge/Apache%20Beam-00A3E0?style=for-the-badge&logo=apache&logoColor=white)
-
-### 🏗️ &nbsp;Azure Ecosystem
-
-![Azure Data Factory](https://img.shields.io/badge/ADF-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### 🌐 &nbsp;GCP Ecosystem
-
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Bigtable](https://img.shields.io/badge/Bigtable-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 💻 &nbsp;Languages & Storage
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🔧 &nbsp;DevOps & Orchestration
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-</div>
-
-<br/>
+    A --> B --> C --> D --> E
+```
 
 ---
 
-## 🍍 &nbsp;Signature Projects
+## 🍍 &nbsp;Pipelines in Production
 
-> *Each pipeline is a statement. Each architecture, a craft.*
-
-<br/>
+> Styled as an orchestrator's run board. Every number below comes from the repo itself.
 
 <table width="100%">
-
 <tr>
 <td width="50%" valign="top">
 
-### 🔁 &nbsp;[adf-regression-automation](https://github.com/thevamsikrishna/adf-regression-automation)
-**Enterprise ADF Pipeline Regression Framework**
+#### 🟢 [`pyspark-scd-framework`](https://github.com/thevamsikrishna/pyspark-scd-framework)
+**SCD Type 1 / 2 engine on Delta Lake**
 
-Automated regression testing for Azure Data Factory pipelines with GitHub Actions CI/CD, Markdown summary generation, and Databricks notebook validation. Cuts manual QA effort by 80%.
+SHA-256 change detection over tracked columns, two-phase Type 2 merges (expire → insert), YAML-configured dimensions, unit + integration tests.
 
-`ADF` &nbsp;`Databricks` &nbsp;`Python` &nbsp;`GitHub Actions`
+```text
+benchmark  100M rows · 10M changed
+baseline   28.6 min
++AQE+ZORDER+Photon   11.8 min  (−59%)
+```
 
-![Build](https://github.com/thevamsikrishna/adf-regression-automation/actions/workflows/ci.yml/badge.svg)
+`PySpark` `Delta Lake` `CDC` `Databricks`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ &nbsp;[bigquery-bigtable-pipeline](https://github.com/thevamsikrishna/bigquery-bigtable-pipeline)
-**High-Throughput BQ → Bigtable at Scale**
+#### 🟢 [`dynamic-pyspark-etl`](https://github.com/thevamsikrishna/dynamic-pyspark-etl)
+**Config-as-pipeline ETL framework**
 
-Multi-column-family pipeline with composite row key support via JSON mapping. Built first in PySpark, then migrated to Apache Beam / Dataflow for serverless scale.
+Describe a pipeline in YAML (source, joins, transforms, DQ checks, target) and the engine runs it. Dev/QA/prod configs, audit tables, ADF + Databricks Jobs wiring, CI.
 
-`BigQuery` &nbsp;`Bigtable` &nbsp;`Apache Beam` &nbsp;`PySpark`
+```yaml
+quality:
+  - type: not_null
+  - type: unique
+  - type: row_count_min
+```
+
+`PySpark` `YAML` `ADF` `Databricks Jobs`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ &nbsp;[pyspark-scd-framework](https://github.com/thevamsikrishna/pyspark-scd-framework)
-**Production SCD Type 1/2 Framework**
+#### 🟢 [`bigquery-bigtable-pipeline`](https://github.com/thevamsikrishna/bigquery-bigtable-pipeline)
+**BigQuery → Bigtable, built twice**
 
-SHA-256-based change detection engine with full CDC pattern support. Delta Lake ACID guarantees with optimized merge strategies for petabyte-scale warehouses.
+Same pipeline in PySpark *and* Apache Beam/Dataflow. Pluggable row-key strategies: composite, hash-prefix (anti-hotspot) and reversed-timestamp (latest-first scans).
 
-`PySpark` &nbsp;`Delta Lake` &nbsp;`SCD` &nbsp;`CDC` &nbsp;`SQL`
+`BigQuery` `Bigtable` `Beam` `Dataflow` `PySpark`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 &nbsp;[dynamic-pyspark-etl](https://github.com/thevamsikrishna/dynamic-pyspark-etl)
-**YAML-Driven Enterprise ETL Framework**
+#### 🟢 [`adf-regression-automation`](https://github.com/thevamsikrishna/adf-regression-automation)
+**Regression testing for ADF pipelines**
 
-Zero-code pipeline configuration. Converts hardcoded PySpark SQL into a declarative, YAML-driven execution engine. Drop in a config, get a production pipeline.
+Runs pipeline suites, validates row counts, schema and data quality, renders HTML reports, logs to audit tables and notifies via Logic Apps.
 
-`PySpark` &nbsp;`YAML` &nbsp;`Delta Lake` &nbsp;`ADF`
+[![CI](https://github.com/thevamsikrishna/adf-regression-automation/actions/workflows/adf-regression-ci-cd.yml/badge.svg)](https://github.com/thevamsikrishna/adf-regression-automation/actions)
+
+`ADF` `Databricks` `Logic Apps` `GitHub Actions`
 
 </td>
 </tr>
-
 <tr>
-<td colspan="2" align="center" valign="top">
+<td colspan="2" valign="top">
 
-### ⭐ &nbsp;[awesome-data-engineer-prep](https://github.com/thevamsikrishna/awesome-data-engineer-prep)
-**The Data Engineer's Interview Bible**
+#### 📚 [`awesome-data-engineer-prep`](https://github.com/thevamsikrishna/awesome-data-engineer-prep)
+**140+ study notes for data engineering interviews**: SQL from basics to recursive CTEs, PySpark internals and skew handling, data modeling, multi-cloud, and real-world case studies (ride-sharing, fintech, log analytics).
 
-Curated interview questions, system design breakdowns, PySpark internals, SQL patterns, and real Infosys / product-company question sets. Used by engineers preparing for Microsoft, Google, Databricks.
-
-`PySpark` &nbsp;`SQL` &nbsp;`System Design` &nbsp;`Azure` &nbsp;`GCP` &nbsp;`Interview Prep`
-
-![Stars](https://img.shields.io/github/stars/thevamsikrishna/awesome-data-engineer-prep?style=social)
-&nbsp;
-![Forks](https://img.shields.io/github/forks/thevamsikrishna/awesome-data-engineer-prep?style=social)
+![Stars](https://img.shields.io/github/stars/thevamsikrishna/awesome-data-engineer-prep?style=social) ![Forks](https://img.shields.io/github/forks/thevamsikrishna/awesome-data-engineer-prep?style=social)
 
 </td>
 </tr>
-
 </table>
 
+---
+
+## 🧠 &nbsp;Design Decisions I'd Defend in a Review
+
+<details>
+<summary><b>Why hash rows instead of comparing columns in SCD merges?</b></summary>
 <br/>
+One <code>sha2(concat_ws(...), 256)</code> per row turns an N-column comparison into a single equality check, keeps the merge condition readable, and makes "what changed?" auditable. Hashing 10M rows over 8 columns takes ~31s, which is cheap next to the merge itself.
+</details>
+
+<details>
+<summary><b>Why three row-key strategies for Bigtable?</b></summary>
+<br/>
+Because the right key depends on the read pattern. Sequential IDs hotspot a single tablet, so a <b>hash prefix</b> spreads writes. "Latest event first" reads want a <b>reversed timestamp</b>. Multi-attribute lookups want a <b>composite</b> key. Making it pluggable means the schema decision stays in config, not code.
+</details>
+
+<details>
+<summary><b>Why YAML-driven pipelines?</b></summary>
+<br/>
+Hardcoded PySpark turns every new feed into a code review. A declarative config makes pipelines diffable, reviewable by analysts, promotable across dev → QA → prod, and forces data-quality checks to be written down instead of remembered.
+</details>
+
+<details>
+<summary><b>Why build the same pipeline in Spark <i>and</i> Beam?</b></summary>
+<br/>
+To learn where each one actually wins: Spark for heavy joins on a cluster you already pay for, Beam/Dataflow for autoscaling and unified batch + streaming semantics. Now I can pick based on evidence instead of habit.
+</details>
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+## 📟 &nbsp;Telemetry
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thevamsikrishna&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=C9920A&title_color=F5C842&icon_color=C9920A&text_color=FFFFFF&bg_color=0D0D0D"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevamsikrishna&layout=compact&theme=github_dark&border_color=C9920A&title_color=F5C842&text_color=FFFFFF&bg_color=0D0D0D"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thevamsikrishna&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=C9920A&title_color=F5C842&icon_color=C9920A&text_color=FFFFFF&bg_color=0D0D0D"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevamsikrishna&layout=compact&border_color=C9920A&title_color=F5C842&text_color=FFFFFF&bg_color=0D0D0D"/>
+
+[![Streak](https://streak-stats.demolab.com?user=thevamsikrishna&theme=dark&background=0D0D0D&border=C9920A&ring=F5C842&fire=C9920A&currStreakLabel=F5C842&sideLabels=C9920A&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 </div>
-
-<div align="center">
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thevamsikrishna&theme=dark&background=0D0D0D&border=C9920A&ring=F5C842&fire=C9920A&currStreakLabel=F5C842&sideLabels=C9920A&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
 
 ---
 
-## 🎯 &nbsp;2026 — The Roadmap
+## 🗺️ &nbsp;Backlog
 
-<div align="center">
-
-| Goal | Status |
-|:---|:---:|
-| 🏗️ &nbsp;Build open-source **PySpark Data Quality Framework** | 🔄 In Progress |
-| 🌿 &nbsp;Merge first PR into **Apache Spark / Delta Lake** | 📋 Planned |
-| 🤖 &nbsp;Release **AI-powered ETL orchestration** tooling | 📋 Planned |
-| 🏆 &nbsp;Earn **Google Professional Data Engineer** certification | 📋 Planned |
-| 📝 &nbsp;Publish 12+ technical posts on LinkedIn & Dev.to | 🔄 In Progress |
-| ⭐ &nbsp;Reach **500+ GitHub stars** across repositories | 🔄 11 → 500 |
-
-</div>
-
-<br/>
-
----
-
-## 🤝 &nbsp;Let's Build Something
-
-<div align="center">
-
-<br/>
-
-> *"Every great data platform starts with one well-designed pipeline."*
-> 
-> — V.K. 🍍
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-krishna-pineapple/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-C9920A?style=for-the-badge&logo=vercel&logoColor=black)](https://vamsi-krishna.autos/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email%20Me-F5C842?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nukalavamsikrishna10@gmail.com)
-
-<br/>
-
-*Open to senior Data Engineering roles at product-based companies.*
-*Building in public. One pipeline at a time. 🍍*
-
-</div>
-
-<br/>
+```text
+STATUS    TASK
+───────   ──────────────────────────────────────────────────────────
+🔄 WIP    NexusFlow · real-time fraud detection on Kafka + Spark
+🔄 WIP    PipeFlow Lens · cost & carbon tracking per pipeline run
+🔄 WIP    Databricks Data Engineer certification
+🔄 WIP    Google Cloud Professional Data Engineer certification
+📋 NEXT   First upstream PR to Delta Lake or Apache Spark
+📋 NEXT   Weekly LinkedIn deep-dives on pipeline internals
+```
 
 ---
 
 <div align="center">
+
+```text
+$ vamsi --status
+✔ pipelines healthy   ✔ schemas validated   ✔ open to senior DE roles
+```
+
+*Building in public. One idempotent pipeline at a time.* 🍍
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C842,50:C9920A,100:0A0A0A&height=120&section=footer" width="100%"/>
+
 </div>
