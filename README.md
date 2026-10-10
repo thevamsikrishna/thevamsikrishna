@@ -28,7 +28,7 @@
 │ orchestration    │ ADF · Airflow · Step Functions                               │
 │ domains          │ banking · insurance · payments · enterprise IT               │
 │ obsessions       │ idempotency, schema drift, cost per GB, boring on-call       │
-│ certs            │ AZ-900 (held) · Databricks DE, GCP PDE (in progress)         │
+│ certs            │ AZ-900 (held) · Databricks DE, GCP PDE (in progress)        │
 │ open_to          │ Senior DE roles at product companies                         │
 └──────────────────┴──────────────────────────────────────────────────────────────┘
 ```
